@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>NoDivorce</name>
+	<author>tiagocc0</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>Skips the divorce interaction so it won't happen
+</description>
+	<url></url>
+</ModMetaData>
